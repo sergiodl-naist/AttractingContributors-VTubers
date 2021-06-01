@@ -28,7 +28,7 @@ Goal - I want contributors to help me list some favorite Japanese Food.
 7. Kushi-katsu
 8. Tsukemen
 9. Miso soup
-10.
+10. Sukiyaki
 11.
 12.
 
