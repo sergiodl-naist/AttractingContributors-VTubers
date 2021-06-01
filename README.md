@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (Food-collection)
 Goal - I want contributors to help me list some favorite Japanese Food.
 
-# List of Anime.
+# List of Japanese Food.
 1. Sashimi
 2. Sushi
 3. Tempura
