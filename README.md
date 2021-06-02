@@ -20,5 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Apps
-- Twitter
+# List of Movies
+1. La La Land
+2. 3 idiots
+3. Bohemian Rhapsody
+4. Stardust
+5. Fast and Furious
+6. レディプレイヤー1
