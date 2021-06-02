@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Bohemian Rhapsody
 4. Stardust
 5. Fast and Furious
-6. レディプレイヤー1
+6. Ready Player One
+7. Les Misérables
