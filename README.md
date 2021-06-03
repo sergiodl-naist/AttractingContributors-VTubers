@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Les Misérables
 8. Armageddon  
 9. Midsummer
+10. Solanin
