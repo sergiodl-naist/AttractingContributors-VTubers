@@ -46,3 +46,4 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 * Kizuku Yasiro
 * Dola
 * Kizuna AI
+* 格ゲー激うま天帝マスターvTuber犬
