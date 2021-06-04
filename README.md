@@ -43,4 +43,5 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 * Mori Calliope
 * Goldship
 * Kuzuha
+* Kizuku Yasiro
 * Dola
