@@ -45,3 +45,4 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 * Kuzuha
 * Kizuku Yasiro
 * Dola
+* Kizuna AI
