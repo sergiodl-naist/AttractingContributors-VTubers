@@ -24,6 +24,18 @@ A setup for a 3D avatar "REALITY: Be yourself you want to be" from SIGGRAPH Asia
 
 One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon America) part of the talent agency "Hololive". Quick with her words, badmouthed but pretty funny and understanding. Every Sunday 12:00 (JST) presents a different colleague to the public and review Memes and funny pictures from reddit.
 
+======= UPDATE =======
+
+Kiryu Coco will be graduating from Hololive, seemingly due personal reasons.
+Her last stream will be the 1st of July.
+
+I hope Coco find hapiness in her next endevours and personal life.
+She was a great event in my and all of her fans lives.
+
+[Announcement of Kiryu Coco's Graduation](https://cover-corp.com/news/detail/20210609b)
+
+======================
+
 # Ask Anything about vtubers!
 
 1. a
