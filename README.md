@@ -74,3 +74,4 @@ She was a great event in my and all of her fans lives.
 * 犬神ころね
 * 猫又おかゆ（おかころは正義）
 * 大空スバル（新衣装に限界化）
+* Gengen
