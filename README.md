@@ -24,3 +24,4 @@ Goal - I want contributors to help me list some favorite Video Game Characters.
 1. Mario
 1. Yellow 13
 1. Homura
+1. Kirby
