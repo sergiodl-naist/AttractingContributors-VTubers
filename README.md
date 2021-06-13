@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some favorite Video Game Characters.
 1. Homura
 1. hollow knight
 1. Kirby
+1. King Dedede
