@@ -19,4 +19,5 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Video Game Characters.
 
 # List of Video Game Characters
-- Shy Guy
+1. Shy Guy
+1. Link
