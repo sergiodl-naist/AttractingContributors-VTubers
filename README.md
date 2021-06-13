@@ -76,5 +76,5 @@ She was a great event in my and all of her fans lives.
 * 大空スバル（新衣装に限界化）
 * Gengen
 * 月ノ美兎（委員長）
-
+* Eve
 * ノエル団長
