@@ -22,4 +22,5 @@ To complete the assignment, please do the following:
 e.g. SODASHI
 1. Curren Bouquetd'or
 2. Goldship
-3. Makibao
+3. Haru Urara
+4. Makibao
