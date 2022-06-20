@@ -23,3 +23,4 @@ e.g. SODASHI
 1. Curren Bouquetd'or
 2. Goldship
 3. Haru Urara
+4. Makibao
